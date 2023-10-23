@@ -1,0 +1,33 @@
+h3 , .hh {
+    margin-left: 40%;
+    margin-top: 30px;
+    margin-top: 30px;
+}
+h3 {
+    margin-bottom: 100px;
+}
+
+p , div{ 
+    margin-top : 0;
+    margin-bottom: 0;
+    padding-top : 0;
+    padding-bottom: 0;
+ }
+ .first{
+    margin-left: 30px;
+ }
+ .scnd{
+    margin-left: 30px;
+ }
+.third{
+    background-color: sandybrown;
+    width : 400px;
+}
+.A2{
+    text-shadow: 2px 1px 3px purple;
+    margin-left : 30px;
+}
+
+
+
+ 
