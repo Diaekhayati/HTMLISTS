@@ -1,2 +1,2 @@
-# exodiaehh
+# exo
 exo html css
